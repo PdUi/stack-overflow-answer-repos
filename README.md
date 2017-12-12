@@ -5,3 +5,5 @@
 [Time-Picker using jQuery in Aurelia](https://stackoverflow.com/questions/45285486/time-picker-using-jquery-in-aurelia/45287109#45287109)
 
 [How can toastr.js work in Aurelia and Typescript?](https://stackoverflow.com/questions/39022758/how-can-toastr-js-work-in-aurelia-and-typescript/39234092#39234092)
+
+[Angular/Typescript numeral.js](https://stackoverflow.com/questions/45676193/angular-typescript-numeral-js#comment78349427_45676193)
