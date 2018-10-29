@@ -2,10 +2,10 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 
-import { DynamicLoaderModule } from './dynamic-loader/dynamic-loader.module';
+// import { DynamicLoaderModule } from './dynamic-loader/dynamic-loader.module';
 
 import { AppComponent } from './app.component';
-import { SlotComponent } from './dynamic-loader/slot.component';
+// import { SlotComponent } from './dynamic-loader/slot.component';
 
 @NgModule({
   declarations: [
