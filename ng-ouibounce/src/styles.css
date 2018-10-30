@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.modal {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: blueviolet;
+  height: 50vw;
+  width: 50vw;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  font-weight: 700;
+  color: white;
+}
