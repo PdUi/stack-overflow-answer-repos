@@ -1,0 +1,15 @@
+{
+  "name": "libtest",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "dependencies": {
+    "numeral": "^2.0.6",
+    "tippy.js": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/numeral": "0.0.25"
+  }
+}
